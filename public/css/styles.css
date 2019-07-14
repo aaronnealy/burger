@@ -31,3 +31,8 @@ body {
     position: relative;
     right: 15px;
   }
+
+  img {
+    position: relative;
+    left: 85px;
+  }
