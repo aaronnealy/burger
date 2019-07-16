@@ -67,7 +67,7 @@ $(document).ready(function() {
         burger.burger_name,
         "</span>",
         "<input type='burger_name' class='edit' style='display: none;'>",
-        "<button class='delete btn btn-danger'>x</button>",
+        // "<button class='delete btn btn-danger'>x</button>",
         "<button class='complete btn btn-primary'>Devour It</button>",
         "</li>"
       ].join("")
